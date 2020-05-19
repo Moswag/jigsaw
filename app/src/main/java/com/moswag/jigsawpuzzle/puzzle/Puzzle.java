@@ -16,7 +16,7 @@ import com.moswag.jigsawpuzzle.cutter.ImageCutter;
 import com.moswag.jigsawpuzzle.models.PuzzlePiece;
 
 /**
- * Created by Yuvaraj.
+ * Created by Webster Moswa.
  */
 
 public class Puzzle {

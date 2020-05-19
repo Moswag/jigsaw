@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /**
- * Created by Colan Infotech.
+ * Created by Webster Moswa.
  */
 
 public class StorePreference {

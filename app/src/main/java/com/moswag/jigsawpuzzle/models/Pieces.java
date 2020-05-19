@@ -3,7 +3,7 @@ package com.moswag.jigsawpuzzle.models;
 import android.graphics.Bitmap;
 
 /**
- * Created by Yuvaraj on 9/5/2016.
+ * Created by Webster Moswa.
  */
 public class Pieces {
 

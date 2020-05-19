@@ -1,7 +1,7 @@
 package com.moswag.jigsawpuzzle.cutter;
 
 /**
- * @author Vladimir Shevchenko vladimir@pantrylabs.com 05/04/16.
+ * @author Webster Moswa.
  */
 public enum VerticalCurve {
     NONE,
