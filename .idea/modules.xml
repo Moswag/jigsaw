@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JigSawPuzzle2-Android.iml" filepath="$PROJECT_DIR$/JigSawPuzzle2-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/JigSawPuzzle2-Android-app.iml" filepath="$PROJECT_DIR$/app/JigSawPuzzle2-Android-app.iml" group="JigSawPuzzle2-Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloaded-JigSawPuzzle2-Android.iml" filepath="$PROJECT_DIR$/downloaded-JigSawPuzzle2-Android.iml" group="JigSawPuzzle2-Android" />
+    </modules>
+  </component>
+</project>
